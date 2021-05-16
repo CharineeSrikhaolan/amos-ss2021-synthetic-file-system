@@ -159,3 +159,4 @@ class TestBridge(unittest.TestCase):
 
         # system query tests
         self.assertIn(mdh_system_query.query_name, graphql)
+
